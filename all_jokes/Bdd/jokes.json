@@ -11926,6 +11926,36 @@
       	"type": "normal",
       	"joke": "Quelle est la différence entre un parisien, une cravate et une ceinture ?",
       	"answer": "La cravate serre le cou, la ceinture serre la taille, le Parisien sert à rien."
+    },
+    {
+        "id": 2004,
+        "type": "normal",
+        "joke": "Docteur, j’ai oublié ma carte Vitale.",
+        "answer": "Pas grave, j’ai oublié mon stéthoscope."
+    },
+    {
+        "id": 2005,
+        "type": "normal",
+        "joke": "Pourquoi les plongeurs plongent-ils toujours en arrière et jamais en avant ?",
+        "answer": "Parce que sinon ils tombent dans le bateau."
+    },
+    {
+        "id": 2006,
+        "type": "normal",
+        "joke": "Deux antennes se rencontrent, se marient.",
+        "answer": "La cérémonie n’était pas terrible… mais la réception était excellente."
+    },
+    {
+    "id": 2007,
+    "type": "beauf",
+    "joke": "Tu connais la différence entre un steak et un slip ? Non ?",
+    "answer": "Bah évite que ta copine la découvre."
+    },
+    {
+        "id": 2008,
+        "type": "beauf",
+        "joke": "Pourquoi les beaufs aiment pas les sushis ?",
+        "answer": "Parce que ça rentre pas dans la bouche si tu mets pas de sauce samouraï."
     }
   ]
   
